@@ -1,0 +1,66 @@
+body{
+	background-color: #C2A9EF
+}
+h1{
+	font-family: 'Bubblegum Sans';
+}
+h3{
+	font-family: 'Bubblegum Sans';
+}
+p{
+	font-family: 'Bubblegum Sans';
+}
+.square {
+  height: 450px;
+  width: 550px;
+  background-color: #D8CAF6;
+  border-radius: 25px;
+  position: relative;
+  top: 20px;
+}
+.square2 {
+  height: 400px;
+  width: 500px;
+  bottom: 425px;
+  position: relative;
+  background-color: #EEEAFD;
+  border-radius: 25px;
+}
+label {
+	font-family: 'Bubblegum Sans';
+    display: block;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    text-align: center;
+    color: #555;
+    font-weight: bold;
+}
+input {
+	font-family: 'Bubblegum Sans';
+    display: block;
+    width: 50%;
+    margin-bottom: 15px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+button {
+	font-family: 'Bubblegum Sans';
+    padding: 15px;
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: none;
+    color: black;
+    cursor: pointer;
+    background-color: #D9C4EC;
+    width: 50%;
+    font-size: 16px;
+}
+.wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
